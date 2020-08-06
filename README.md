@@ -1,2 +1,2 @@
 # PowerShell-Scripts
-PowerShell that I use on regularly
+PowerShell scripts that I use for work
